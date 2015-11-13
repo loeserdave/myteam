@@ -13,3 +13,8 @@ dd {
 h1 {
 	color: orange;
 }
+
+.jumbotron {
+	color: orange;
+	backgroung-color: black;
+}
